@@ -1,0 +1,47 @@
+
+
+body {
+
+  font-family: sans-serif;
+  text-decoration: none;
+ background-image: url(musica1.jpg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+footer {
+	text-decoration: none;
+	text-align: center;
+}
+
+p{
+  font-size: 25px;
+  padding: 20px;
+	margin-top: 20px;
+  color: #FF8C00
+
+;
+
+
+}
+
+a{
+  color: #FF8C00;
+  text-decoration: none;
+}
+
+h1{
+	margin-top: 40px;
+  color: #FF0000;
+
+}
+
+audio{
+	margin-top: 200px;
+}
